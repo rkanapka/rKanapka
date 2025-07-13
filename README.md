@@ -64,5 +64,3 @@
 | ⌨️ **Keyboard**   | [Keychron V6 QMK Wired](https://pcpartpicker.com/product/TRvD4D/keychron-v6-qmk-wiredwired-standard-keyboard-40320324960345) |
 | 🖱️ **Mouse**      | [Logitech G502 Hero](https://pcpartpicker.com/product/7RbwrH/logitech-g502-hero-wired-optical-mouse-910-005469) |
 | 🎧 **Headphones** | [Beyerdynamic DT 880 Premium (250 Ohm)](https://pcpartpicker.com/product/Ff3RsY/beyerdynamic-headphones-481793) |
-| 🎧 **Earbuds**    | [Samsung Galaxy Buds 3](https://www.samsung.com/us/mobile-audio/galaxy-buds3/) |
-| 🖥️ **Home Server** | [Raspberry Pi 4 Homelab](https://github.com/rkanapka/homelab) – personal server with Dockerized services and secure local network setup |
